@@ -1,2 +1,7 @@
 # P1-Anime_Lyrics_NLP_Analysis
-Data Science Project using dataset for text generation, sentiment analysis, or even building a recommendation system for anime based on musical genres.
+
+Goal: Analyze anime song lyrics using NLP.
+
+Methods: Sentiment analysis, word frequencies, clustering.
+
+Tools: Python, sklearn, NLTK/spacy, matplotlib.
