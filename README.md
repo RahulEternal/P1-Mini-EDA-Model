@@ -1,7 +1,14 @@
-# P1-Anime_Lyrics_NLP_Analysis
+# Anime Rating Prediction
 
-Goal: Analyze anime song lyrics using NLP.
+A machine learning project that predicts anime ratings based on metadata 
+such as genre, type, episodes, and member popularity.
 
-Methods: Sentiment analysis, word frequencies, clustering.
+## Dataset
+Source: Kaggle - Anime Recommendation Database
 
-Tools: Python, sklearn, NLTK/spacy, matplotlib.
+## Workflow
+- Data exploration
+- Data cleaning
+- Feature engineering
+- Model training
+- Evaluation
